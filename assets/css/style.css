@@ -52,7 +52,11 @@ h1, h2, h3 {
     background-color: #3a3a3a;
 }
 
-/* Contact Us section */
+/* Footer section */
 #contact-us {
     background-color: #3a3a3a;
+}
+
+#social-networks i{
+    color: #52c6ca;
 }

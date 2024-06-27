@@ -6,6 +6,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    margin: 0;
     /* Generic project styles */
     font-family: 'Montserrat', sans-serif;
     color: #52c6ca;
@@ -14,6 +15,11 @@ body {
 /* Header */
 header {
     background-color: #3a3a3a;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 2px 2px #666666;
+    display: flex;
+    justify-content: space-between;
 }
 
 h1, h2, h3 {

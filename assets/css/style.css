@@ -25,3 +25,8 @@ h1, h2, h3 {
     list-style-type: none;
     letter-spacing: 2px;
 }
+
+/* Nav toggle */
+#nav-toggle {
+    display: none;
+}

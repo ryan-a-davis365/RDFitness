@@ -34,9 +34,24 @@ h1, h2, h3 {
     letter-spacing: 1px;
 }
 
+#logo {
+    float: left;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Navigation links */
 #menu {
     list-style-type: none;
     letter-spacing: 2px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
 }
 
 /* Nav toggle */
@@ -70,4 +85,7 @@ h1, h2, h3 {
 
 #social-networks i{
     color: #52c6ca;
+}
+#social-networks li {
+    list-style-type: none;
 }

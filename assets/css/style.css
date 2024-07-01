@@ -101,6 +101,11 @@ nav{
     width: 100%;
 }
 
+#about-us {
+    color: #ffffff;
+    font-size: 117%;
+}
+
 /* Personal Trainer section*/
 #personal-trainer {
     background-color: #3a3a3a;

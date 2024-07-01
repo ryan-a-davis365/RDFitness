@@ -106,6 +106,18 @@ nav{
     font-size: 117%;
 }
 
+#equipment {
+    position: absolute;
+    margin-top: 60px;
+}
+
+div h2 {
+    background-color: transparent;
+    color: #778DA9;
+}
+
+
+
 /* Personal Trainer section*/
 #personal-trainer {
     background-color: #e0e1dd;

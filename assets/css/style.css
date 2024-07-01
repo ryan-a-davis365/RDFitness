@@ -118,7 +118,7 @@ nav{
 
 #equipment {
     position: absolute;
-    margin-top: 65px;
+    margin-top: 70px;
     margin-left: 10px;
 }
 
@@ -144,6 +144,20 @@ section div {
     text-align: center;
     font-size: 200%;
     margin-top: 10px;
+}
+
+#trainers {
+    text-align: center;
+}
+
+#trainers h3 {
+    font-size: 140%;
+}
+
+#trainers p {
+    font-size: 120%;
+    margin: 10px;
+    margin-bottom: 20px;
 }
 
 /* Classes section */

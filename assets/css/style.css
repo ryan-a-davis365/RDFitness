@@ -111,9 +111,15 @@ nav{
     font-size: 126%;
 }
 
+/* This is just to move the about us section to the right so its not on the edge of the page*/
+#about-us2 {
+    margin-left: 10px;
+}
+
 #equipment {
     position: absolute;
     margin-top: 65px;
+    margin-left: 10px;
 }
 
 div h2 {

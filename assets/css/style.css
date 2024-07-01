@@ -136,6 +136,14 @@ section div {
 /* Personal Trainer section*/
 #personal-trainer {
     background-color: #e0e1dd;
+    width: 100%;
+    margin: auto;
+}
+#personal-trainer h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 200%;
+    margin-top: 10px;
 }
 
 /* Classes section */

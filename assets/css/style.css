@@ -58,6 +58,10 @@ h1, h2, h3 {
     border-bottom: 1px solid #e0e1dd;
 }
 
+#title {
+    margin-top: 5px;
+    margin-left: 5px;
+}
 
 /* Navbar styles with dropdown toggle */
 nav{
@@ -104,7 +108,7 @@ nav{
 
 #about-us {
     color: #ffffff;
-    font-size: 117%;
+    font-size: 126%;
 }
 
 #equipment {

@@ -92,6 +92,15 @@ nav{
     margin-top: 47px;
 }
 
+#hero {
+    background: url(./images/about-us-gym.jpg);
+    position: relative;
+    margin-top: 47px;
+    flex: 1 0 auto;
+    height: 600px;
+    width: 100%;
+}
+
 /* Personal Trainer section*/
 #personal-trainer {
     background-color: #3a3a3a;

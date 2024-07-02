@@ -18,6 +18,10 @@ body {
     color: #415A77;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #e0e1dd;
@@ -163,7 +167,20 @@ section div {
 /* Classes section */
 #classes {
     background-color: #e0e1dd;
+    display: flex;
+    flex-wrap: wrap;
 }
+
+#details div {
+    color: #1f1f1f;
+    background-color: #bdbdbd;
+    padding: 15px;
+    text-align: center;
+    flex-basis: 200px;
+    border: 2px solid #1e2936;
+}
+
+
 
 /* Footer section */
 footer {

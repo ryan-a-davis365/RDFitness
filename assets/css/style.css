@@ -174,10 +174,15 @@ section div {
 #details div {
     color: #1f1f1f;
     background-color: #bdbdbd;
-    padding: 15px;
+    padding: 50px;
+    margin: 2px;
     text-align: center;
-    flex-basis: 200px;
     border: 2px solid #1e2936;
+    font-size: 150%;
+    /* This will not wrap on screens of less than 400px wide.
+    Each div will expand to fill the available space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
 }
 
 

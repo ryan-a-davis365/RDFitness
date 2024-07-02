@@ -188,13 +188,38 @@ section div {
 
 
 /* Footer section */
+
 footer {
     background-color: #e0e1dd;
 }
 
+footer h2 {
+    font-size: 160%;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#address {
+    text-align: center;
+    font-size: 120%;
+}
+
+#contact {
+    text-align: center;
+    font-size: 120%;
+    margin-top: 15px;
+}
+
+#social-networks {
+    float: right;
+    text-align: right;
+}
+
 #social-networks i{
     color: #415A77;
+    font-size: 150%;
 }
+
 #social-networks li {
     list-style-type: none;
 }

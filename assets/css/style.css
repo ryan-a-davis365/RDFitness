@@ -210,9 +210,19 @@ footer h2 {
     margin-top: 15px;
 }
 
+#opening-hours {
+    text-align: center;
+    font-size: 120%;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
 #social-networks {
-    float: right;
-    text-align: right;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-left: 145px;
 }
 
 #social-networks i{

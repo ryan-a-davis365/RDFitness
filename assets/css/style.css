@@ -135,7 +135,15 @@ section div {
     margin-top: 10px;
 }
 
+/* Gallery Section */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
 
+#photos {
+    line-height: 0;
+}
 
 /* Personal Trainer section*/
 #personal-trainer {

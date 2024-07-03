@@ -20,6 +20,7 @@
 </head>
 
 <!-- Nav bar -->
+
 <body>
     <header>
         <a href="index.html">
@@ -39,19 +40,20 @@
     </header>
 
     <!-- Main Content -->
-<main>
-    <section id="signup">
-        <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
-            <h2 id="transparent-header"><i class="fa-solid fa-dumbbell"></i> Let's get you signed up for an induction!</h2>
-            <label for="first-name">First Name</label>
-            <input type="text" name="first_name" id="first-name" class="text-input" required>
-            <br>
-            <label for="last-name">Last Name</label>
-            <input type="text" name="last_name" id="last-name" class="text-input" required>
-            <br>
-            <label for="email-address">Email Address</label>
-            <input type="email" name="email_address" id="email-address" class="text-input" required>
-            <br>
+    <main>
+        <section id="signup">
+            <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                <h2 id="transparent-header"><i class="fa-solid fa-dumbbell"></i> Let's get you signed up for an
+                    induction!</h2>
+                <label for="first-name">First Name</label>
+                <input type="text" name="first_name" id="first-name" class="text-input" required>
+                <br>
+                <label for="last-name">Last Name</label>
+                <input type="text" name="last_name" id="last-name" class="text-input" required>
+                <br>
+                <label for="email-address">Email Address</label>
+                <input type="email" name="email_address" id="email-address" class="text-input" required>
+                <br>
                 <div>
                     <label for="road">Cardio</label>
                     <input type="radio" name="running_preference" id="road" value="road" required checked>
@@ -64,11 +66,17 @@
                     <label for="both">Calisthenics</label>
                     <input type="radio" name="running_preference" id="both" value="both" required>
                 </div>
+                </div>
+                <button type="submit" class="join-button">Let's go!</button>
+            </form>
+            <div id="what-next">
+                <h2>What happens after you have signed up?</h2>
+                <p> We will contact you over Email with the one you have provided about a time that best suits you to
+                    come in, have a look around and if you like what you see, discuss what membership you would like to
+                    sign up for!</p>
             </div>
-            <button type="submit" class="join-button">Let's go!</button>
-        </form>
-    </section>
-</main>
+        </section>
+    </main>
 
     <!-- Font Awesome Kit-->
     <script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta tags for search engines -->
+    <meta name="description"
+        content="RDFitness. A gym in Essex with a ton of machines for weight lifting and for cardio. Different classes and many different Personal Trainers.">
+    <meta name="keywords" content="gym, weight lifting, exercise, weights, cardio, ">
+    <!-- Title -->
+    <title>RDFitness Gym</title>
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/css/favicon/RDFitness 180px.jpg">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/css/favicon/RDFitness 32px.jpg">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/css/favicon/RDFitness 16px.jpg">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<!-- Nav bar -->
+<body>
+    <header>
+        <a href="index.html">
+            <h1 id="title">RDFitness</h1>
+        </a>
+        <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-icon">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+        <nav>
+            <ul id="menu">
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="signup.html">Sign Up</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+<main>
+    <section id="signup">
+        <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+            <h2 id="transparent-header"><i class="fa-solid fa-heartbeat"></i> Let's get you signed up for an induction!</h2>
+            <label for="first-name">First Name</label>
+            <input type="text" name="first_name" id="first-name" class="text-input" required>
+            <br>
+            <label for="last-name">Last Name</label>
+            <input type="text" name="last_name" id="last-name" class="text-input" required>
+            <br>
+            <label for="email-address">Email Address</label>
+            <input type="email" name="email_address" id="email-address" class="text-input" required>
+            <br>
+                <div>
+                    <label for="road">Cardio</label>
+                    <input type="radio" name="running_preference" id="road" value="road" required checked>
+                </div>
+                <div>
+                    <label for="trail">Weight Lifting</label>
+                    <input type="radio" name="running_preference" id="trail" value="trail" required>
+                </div>
+                <div>
+                    <label for="both">Calisthenics</label>
+                    <input type="radio" name="running_preference" id="both" value="both" required>
+                </div>
+            </div>
+            <button type="submit" class="join-button">Let's go!</button>
+        </form>
+    </section>
+</main>
+
+    <!-- Font Awesome Kit-->
+    <script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -112,7 +112,7 @@ nav{
 
 #about-us {
     color: #ffffff;
-    font-size: 126%;
+    font-size: 115%;
 }
 
 /* This is just to move the about us section to the right so its not on the edge of the page*/
@@ -241,8 +241,10 @@ section div {
 /* Classes section */
 #classes {
     background-color: #e0e1dd;
+    /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
+    
 }
 
 #details div {
@@ -296,7 +298,7 @@ footer h2 {
     position: relative;
     display: flex;
     flex-direction: row;
-    margin-left: 145px;
+    margin-left: 135px;
 }
 
 #social-networks i{
@@ -307,3 +309,26 @@ footer h2 {
 #social-networks li {
     list-style-type: none;
 }
+
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    #classes {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    #about-us {
+        font-size: 180%;
+    }
+}
+

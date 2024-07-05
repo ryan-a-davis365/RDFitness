@@ -112,7 +112,7 @@ nav{
 
 #about-us {
     color: #ffffff;
-    font-size: 115%;
+    font-size: 140%;
 }
 
 /* This is just to move the about us section to the right so its not on the edge of the page*/
@@ -204,7 +204,8 @@ section div {
 
 #what-next {
     color: #fafafa;
-    font-size: 112.1%;
+    font-size: 137%;
+    padding-bottom: 20px;
 }
 
 #what-next h2 {
@@ -324,17 +325,11 @@ footer h2 {
         column-count: 2;
         column-gap: 0;
     }
-
-    #about-us {
-        font-size: 300%;
-    }
 }
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
-    #about-us {
-        font-size: 150%;
-    }
+    
 }
 

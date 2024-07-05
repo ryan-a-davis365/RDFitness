@@ -247,7 +247,7 @@ section div {
     
 }
 
-#details div {
+#details {
     color: #1f1f1f;
     background-color: #bdbdbd;
     padding: 0px 40px;
@@ -259,6 +259,7 @@ section div {
     Each div will expand to fill the available space on its row */
     flex-basis: 200px;
     flex-grow: 1;
+    display:flex
 }
 
 
@@ -297,8 +298,8 @@ footer h2 {
 #social-networks {
     position: relative;
     display: flex;
-    flex-direction: row;
-    margin-left: 135px;
+    justify-content: center;
+    align-items: center  -=90-;
 }
 
 #social-networks i{
@@ -321,14 +322,13 @@ footer h2 {
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
-    #classes {
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
-    }
-
     #about-us {
         font-size: 180%;
+    }
+
+    #details div {
+        flex-wrap: wrap;
+        flex-direction: column;
     }
 }
 

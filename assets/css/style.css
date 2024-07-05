@@ -312,7 +312,7 @@ footer h2 {
 
 #social-networks i{
     color: #415A77;
-    font-size: 150%;
+    font-size: 200%;
 }
 
 #social-networks li {
@@ -329,7 +329,36 @@ footer h2 {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+    #about-us {
+        font-size: 170%;
+    }
+
+    #about-us2 h2 {
+        font-size: 220%;
+    }
+
+    #equipment h2 {
+        font-size: 220%;
+    }
+
+    #what-next {
+        font-size: 174%;
+    }
+}
+
+/* Media query: tablets and larger (932px and up) */
+@media screen and (min-width: 932px) {
     /* Header */
-    
+    #about-us {
+        font-size: 200%;
+    }
+
+    #about-us2 h2 {
+        font-size: 230%;
+    }
+
+    #equipment h2 {
+        font-size: 230%;
+    }
 }
 

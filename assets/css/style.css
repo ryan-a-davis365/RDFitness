@@ -257,12 +257,19 @@ section div {
     font-size: 150%;
     /* This will not wrap on screens of less than 400px wide.
     Each div will expand to fill the available space on its row */
-    flex-basis: 200px;
-    flex-grow: 1;
-    display:flex
+    display: flex;
+    flex-wrap: wrap;
 }
 
-
+#details div {
+    /* This will not wrap on screens of less than 400px wide.
+    Each div will expand to fill the available space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* Creates a grid of meetup time dives over the background image */
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
 
 /* Footer section */
 
@@ -317,18 +324,17 @@ footer h2 {
         column-count: 2;
         column-gap: 0;
     }
+
+    #about-us {
+        font-size: 300%;
+    }
 }
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
     #about-us {
-        font-size: 180%;
-    }
-
-    #details div {
-        flex-wrap: wrap;
-        flex-direction: column;
+        font-size: 150%;
     }
 }
 

@@ -340,6 +340,7 @@ footer h2 {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+    /* Main Content */
     #about-us {
         font-size: 170%;
     }
@@ -359,7 +360,7 @@ footer h2 {
 
 /* Media query: tablets and larger (932px and up) */
 @media screen and (min-width: 932px) {
-    /* Header */
+    /* Main Content */
     #about-us {
         font-size: 200%;
     }
@@ -371,5 +372,30 @@ footer h2 {
     #equipment h2 {
         font-size: 230%;
     }
-}
 
+    /* Footer */
+    #contact-us {
+        display: flex;
+        flex-direction: row;
+        padding-top: 20px;
+        width: 100%;
+    }
+
+    #contact-us h2 {
+        display: none;
+    }
+
+    #address {
+        font-size: 150%;
+    }
+
+    #opening-hours {
+        font-size: 150%;
+        margin-left: 20px;
+    }
+
+    #contact {
+        font-size: 150%;
+        margin-left: 20px;
+    }
+}

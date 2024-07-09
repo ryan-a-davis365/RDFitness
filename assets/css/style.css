@@ -245,6 +245,7 @@ section div {
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
+    flex: 1;
 }
 
 #details {
@@ -277,10 +278,8 @@ footer {
     background-color: #e0e1dd;
 }
 
-footer h2 {
-    font-size: 160%;
-    text-align: center;
-    margin-bottom: 15px;
+#contact-us h2 {
+    display: none;
 }
 
 #address {
@@ -316,6 +315,12 @@ footer h2 {
 
 #social-networks li {
     list-style-type: none;
+}
+
+#contact-us {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
 }
 
 /* Media query: tablets and larger (320px and up) */
@@ -359,6 +364,10 @@ footer h2 {
     #classes {
         flex-direction: column;
     }
+    
+    #contact-us {
+        flex-direction: column;
+    }
 }
 
 /* Media query: tablets and larger (932px and up) */
@@ -381,10 +390,6 @@ footer h2 {
         display: flex;
         flex-direction: row;
         padding-top: 20px;
-    }
-
-    #contact-us h2 {
-        display: none;
     }
 
     #address {

@@ -384,15 +384,15 @@ footer {
 @media screen and (min-width: 932px) {
     /* Main Content */
     #about-us {
-        font-size: 200%;
+        font-size: 250%;
     }
 
     #about-us2 h2 {
-        font-size: 230%;
+        font-size: 280%;
     }
 
     #equipment h2 {
-        font-size: 230%;
+        font-size: 280%;
     }
 
     /* Personal Trainer Section */
@@ -430,4 +430,6 @@ footer {
         font-size: 150%;
         margin-left: 20px;
     }
+
+    /* Signup Section */
 }

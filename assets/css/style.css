@@ -332,6 +332,10 @@ footer {
     #about-us2 h2 {
         font-size: 180%;
     }
+
+    #contact-us {
+        justify-content: space-evenly;
+    }
 }
 
 /* Media query: large or landscape phones (576px and up) */
@@ -340,6 +344,11 @@ footer {
         column-count: 2;
         column-gap: 0;
     }
+
+    #address {
+        margin-top: 15px;
+    }
+
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -360,13 +369,14 @@ footer {
     #what-next {
         font-size: 174%;
     }
-
+/* These 2 elements are so they span across the screens no matter what size screen you are on*/
     #classes {
         flex-direction: column;
     }
     
     #contact-us {
-        flex-direction: column;
+        flex-direction: row;
+        justify-content: space-evenly;
     }
 }
 

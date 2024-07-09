@@ -395,6 +395,20 @@ footer {
         font-size: 230%;
     }
 
+    /* Personal Trainer Section */
+    #personal-trainer {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #pt-title {
+        display: flex;
+        justify-content: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 200%;
+    }
+
     /* Footer */
     #contact-us {
         display: flex;

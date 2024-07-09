@@ -245,7 +245,6 @@ section div {
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
-    
 }
 
 #details {
@@ -356,6 +355,10 @@ footer h2 {
     #what-next {
         font-size: 174%;
     }
+
+    #classes {
+        flex-direction: column;
+    }
 }
 
 /* Media query: tablets and larger (932px and up) */
@@ -378,7 +381,6 @@ footer h2 {
         display: flex;
         flex-direction: row;
         padding-top: 20px;
-        width: 100%;
     }
 
     #contact-us h2 {

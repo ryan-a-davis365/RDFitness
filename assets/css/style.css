@@ -116,20 +116,31 @@ nav{
 #about-us {
     color: #ffffff;
     font-size: 140%;
+    height: fit-content;
+    padding: 1rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
 }
 
 /* This is just to move the about us section to the right so its not on the edge of the page*/
 #about-us2 {
-    margin-left: 10px;
+    margin-left: 6rem;
 }
 
 #equipment {
-    position: absolute;
-    margin-top: 70px;
-    margin-left: 10px;
+    height: fit-content;
+    padding: 1rem;
+    margin-top: 2rem;
+    margin-left: 6rem;
 }
 
-div h2 {
+#about-us2 h2 {
+    background-color: transparent;
+    color: #778DA9;
+    padding-top: 4rem;
+}
+
+#equipment h2 {
     background-color: transparent;
     color: #778DA9;
 }

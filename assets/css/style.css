@@ -174,6 +174,7 @@ section div {
     padding: 20px 10% 0 10%;
     flex-grow: 1;
     margin-top: 20px;
+    min-height: 100vh;
 }
 
 
@@ -225,12 +226,15 @@ section div {
 
 #what-next {
     color: #fafafa;
-    font-size: 137%;
+    font-size: 140%;
     padding-bottom: 20px;
 }
 
 #what-next h2 {
-    color: #fafafa;
+    color: #ffffff;
+    background-color: #3a3a3a;
+    padding-left: 8px;
+    margin-bottom: 16px;
 }
 
 /* Personal Trainer section*/
@@ -402,6 +406,36 @@ footer {
         margin-top: 15px;
     }
 
+    #about-us {
+        color: #ffffff;
+        font-size: 140%;
+        height: fit-content;
+        padding: 1rem;
+        margin-top: 2rem;
+        margin-left: 4rem;
+    }
+    
+    /* This is just to move the about us section to the right so its not on the edge of the page*/
+    #about-us2 {
+        margin-left: 6rem;
+    }
+    
+    #equipment {
+        height: fit-content;
+        margin-top: 2rem;
+        margin-left: 6rem;
+    }
+    
+    #about-us2 h2 {
+        background-color: transparent;
+        color: #778DA9;
+        padding-top: 4rem;
+    }
+    
+    #equipment h2 {
+        background-color: transparent;
+        color: #778DA9;
+    }
 }
 
 /* Media query: tablets and larger (768px and up) */

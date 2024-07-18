@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* Asterisk wildcard selector to override default browser style settings */
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -41,7 +41,9 @@ header a {
     color: inherit;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Montserrat', sans-serif;
     background-color: #e0e1dd;
     text-transform: uppercase;
@@ -55,7 +57,7 @@ h1, h2, h3 {
     margin-left: 1rem;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -69,7 +71,7 @@ h1, h2, h3 {
 }
 
 /* Navbar styles with dropdown toggle */
-nav{
+nav {
     position: absolute;
     background-color: #e0e1dd;
     width: 100%;
@@ -79,6 +81,7 @@ nav{
     display: none;
     top: 100%;
 }
+
 /* Nav toggle */
 
 #nav-toggle {
@@ -231,7 +234,9 @@ section div {
     background-color: #e0e1dd;
     width: 100%;
     margin: auto;
+    padding: 32px 0;
 }
+
 #personal-trainer h2 {
     margin-bottom: 20px;
     text-align: center;
@@ -239,15 +244,15 @@ section div {
     margin-top: 10px;
 }
 
-#trainers {
+.trainers {
     text-align: center;
 }
 
-#trainers h3 {
+.trainers h3 {
     font-size: 140%;
 }
 
-#trainers p {
+.trainers p {
     font-size: 120%;
     margin: 10px;
     margin-bottom: 20px;
@@ -260,6 +265,12 @@ section div {
     display: flex;
     flex-wrap: wrap;
     flex: 1;
+}
+
+#classes h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
 }
 
 #details {
@@ -299,6 +310,7 @@ footer {
 #address {
     text-align: center;
     font-size: 120%;
+    margin-top: 16px;
 }
 
 #opening-hours {
@@ -322,13 +334,14 @@ footer {
     align-items: center;
 }
 
-#social-networks i{
+#social-networks i {
     color: #415A77;
     font-size: 200%;
 }
 
 #social-networks li {
     list-style-type: none;
+    padding: 1rem;
 }
 
 #contact-us {
@@ -339,16 +352,33 @@ footer {
 
 /* Media query: tablets and larger (320px and up) */
 @media screen and (min-width: 320px) {
-    #about-us {
-        font-size: 120%;
-    }
-
-    #about-us2 h2 {
-        font-size: 180%;
-    }
 
     #contact-us {
         justify-content: space-evenly;
+    }
+
+    #about-us {
+        font-size: 120%;
+        margin-right: 1rem;
+        padding: 0;
+        margin-left: 1rem;
+    }
+
+    #about-us2 {
+        margin-right: 3rem;
+    }
+
+    #about-us2 h2 {
+        font-size: 150%;
+    }
+
+    #equipment h2 {
+        font-size: 150%;
+    }
+
+    #pt-title {
+        display: flex;
+        justify-content: center;
     }
 }
 
@@ -367,6 +397,7 @@ footer {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Main Content */
     #about-us {
         font-size: 170%;
@@ -380,14 +411,19 @@ footer {
         font-size: 220%;
     }
 
+    #equipment {
+        height: fit-content;
+    }
+
     #what-next {
         font-size: 174%;
     }
-/* These 2 elements are so they span across the screens no matter what size screen you are on*/
+
+    /* These 2 elements are so they span across the screens no matter what size screen you are on*/
     #classes {
         flex-direction: column;
     }
-    
+
     #contact-us {
         flex-direction: row;
         justify-content: space-evenly;
@@ -396,17 +432,10 @@ footer {
 
 /* Media query: tablets and larger (932px and up) */
 @media screen and (min-width: 932px) {
+
     /* Main Content */
-    #about-us {
-        font-size: 250%;
-    }
-
-    #about-us2 h2 {
-        font-size: 280%;
-    }
-
-    #equipment h2 {
-        font-size: 280%;
+    #equipment {
+        height: fit-content;
     }
 
     /* Personal Trainer Section */
@@ -420,7 +449,7 @@ footer {
         justify-content: center;
         padding-top: 10px;
         padding-bottom: 10px;
-        font-size: 200%;
+        font-size: 2rem;
     }
 
     /* Footer */

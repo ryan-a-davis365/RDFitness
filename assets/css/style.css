@@ -128,6 +128,7 @@ nav {
     padding: 1rem;
     margin-top: 2rem;
     margin-left: 4rem;
+    background-color: rgba(60, 60, 60, 0.3);
 }
 
 /* This is just to move the about us section to the right so its not on the edge of the page*/
@@ -477,10 +478,17 @@ footer {
 @media screen and (min-width: 932px) {
 
     /* Main Content */
-    #equipment {
-        height: fit-content;
+    #about-us {
+        font-size: 2.5rem;
+    }
+    
+    #about-us2 h2 {
+        font-size: 3rem;
     }
 
+    #equipment h2 {
+        font-size: 3rem;
+    }
     /* Personal Trainer Section */
     #personal-trainer {
         display: flex;
@@ -516,6 +524,4 @@ footer {
         font-size: 150%;
         margin-left: 20px;
     }
-
-    /* Signup Section */
 }

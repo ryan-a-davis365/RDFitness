@@ -110,6 +110,7 @@ nav{
     height: 600px;
     width: 100%;
     background-size: cover;
+    min-height: 900px;
 }
 
 #about-us {

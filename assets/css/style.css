@@ -108,6 +108,7 @@ nav{
     flex: 1 0 auto;
     height: 600px;
     width: 100%;
+    background-size: cover;
 }
 
 #about-us {

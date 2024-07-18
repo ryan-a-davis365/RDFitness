@@ -296,7 +296,7 @@ section div {
     Each div will expand to fill the available space on its row */
     flex-basis: 200px;
     flex-grow: 1;
-    /* Creates a grid of meetup time dives over the background image */
+    /* Creates a grid of meetup time divs over the background image */
     border: 2px solid rgb(0, 0, 0);
     margin-bottom: 10px;
 }
@@ -388,12 +388,6 @@ footer {
         padding-top: 2rem;
         display: flex;
         justify-content: center;
-    }
-    
-    #classes h2 {
-        text-align: center;
-        font-size: 2rem;
-        margin-bottom: 2rem;
     }
 }
 

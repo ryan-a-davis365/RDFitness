@@ -16,40 +16,15 @@ RDFitness is your go-to destination for achieving fitness goals, offering a comp
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
     * [***Header Element:***](#header-element)
         * [*Title*](#title)
-        * [*Logos*](#logos)
         * [*Navigation Bar*](#navigation-bar)
-
-Hero Images:
-
-About Page:
-
-Hero-Image
-
-Quote
-
-Teachings page:
-
-Hero-Image
-
-Quote
-
-Community page:
-
-Hero-Image
-
-Quote
-
-Contact and Form-Feedback pages:
-
-Hero-Image
-
-Quote
-
-Anchor Tags Within all Pages Main Content
-
-Footer
-
-Typography
+* [**Hero Images:**](#hero-images)
+ * [***Home Page***:](#about-page)
+          * [*Hero-Image*](#hero-image)
+          * [*Gallery-Page*](#Gallery-Page)
+          * [*Sign-up Page*](#Sign-up-Page)
+* [**Anchor Tags Within all Pages Main Content**](#anchor-tags-within-all-pages-main-content)
+* [**Footer**](#footer)
+* [**Typography**](#typography)
 
 Individual Page Content features
 

@@ -5,31 +5,19 @@ RDFitness is your go-to destination for achieving fitness goals, offering a comp
 
 ![Am I responsive screenshot](assets/images/am-i-responsive.png)
 
-Table of contents:
-
-Planning stage
-
-Target Audiences
-
-User Stories
-
-Site Aims
-
-How Is This Will Be Achieved:
-
-Wireframes
-
-Color Scheme
-
-Current Features Common to all pages
-
-Header Element:
-
-Title
-
-Logos
-
-Navigation Bar
+## **Table of Contents:**
+1. [**Site Overview**](#site-overview)
+1. [**Planning stage**](#planning-stage)
+    * [***Target Audiences***](#target-audiences)
+    * [***User Stories***](#user-stories)
+    * [***Site Aims***](#site-aims)
+    * [***How Is This Will Be Achieved:***](#how-is-this-will-be-achieved)
+    * [***Color Scheme***](#color-scheme)
+1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
+    * [***Header Element:***](#header-element)
+        * [*Title*](#title)
+        * [*Logos*](#logos)
+        * [*Navigation Bar*](#navigation-bar)
 
 Hero Images:
 

@@ -3,7 +3,7 @@
 ## **Site Overview**
 RDFitness is your go-to destination for achieving fitness goals, offering a comprehensive range of services and state-of-the-art facilities. The website features a welcoming Home page that instantly gives you the information you need about how the gym started with the "About Us" section and the equipment that we provide with the "Equipment" section. As you go down the page you see other various bits of information like the personal trainers that the gym provide and the different classes that we run. As you navigate to other pages we have a gallery page that is full of photos of the gym so you have a rough idea what you can expect and a sign-up page where you can enter your details and sign-up.
 
-![Am I responsive screenshot](assets/images/Am-i-responsive.png)
+![Am I responsive screenshot](assets/images/am-i-responsive.png)
 
 Table of contents:
 

@@ -170,100 +170,85 @@ that we run.
 ![Home page](assets/images/home-page.png)
 ![Home page](assets/images/home-page2.png)
 
-Gallery Page Content:
-
-The gallery page has multiple different pictures from within the gym
+### **Gallery Page Content:**
+* The gallery page has multiple different pictures from within the gym
 showing all the tools and equipment we provide, how big the gym is and
 the aesthetic of the gym.
 
-Sign-up Page Content:
+![Gallery page](assets/images/gallery-page.png)
 
-The sign-up page allows user to sign up to the gym and book a time to go
+### **Sign-up Page Content:**
+* The sign-up page allows user to sign up to the gym and book a time to go
 to the gym and talk to one of our staff members about everything we
 provide, what the user is interested in and what we can do to accomodate
 his goals.
-
-The user is asked to input their First and Last name so we can identify
+* The user is asked to input their First and Last name so we can identify
 them when they come to the gym, their Email Address so we can contact
 them and ask when they are available to come to the gym. They are then
 asked to pick one of 3 options, Cardio, Weight Lifting or Calisthenics.
 This is just so we can get a rough understanding of what their goals
 are.
-
-They then have a submit button with the text of \"Lets Go!\". I thought
+* They then have a submit button with the text of \"Lets Go!\". I thought
 having the text for the submit button being something different will
 motivate users more to get started and go and smash it.
 
-Future-Enhancements:
+![Sign-up page](assets/images/sign-up-page.png)
 
-The future intention of the site would be to serve as a website
+## **Future-Enhancements**
+* The future intention of the site would be to serve as a website
 specifically for RDFitness that has every single detail someone could
 ever ask for when they are looking at our gym as one they would like to
 join.
-
-At first, the purpose would remain to educate and inform users on what
+* At first, the purpose would remain to educate and inform users on what
 we provide and what they can expect from our gym. There would be
-additional content I could add as interest grew. Such things would be:
+additional content I could add as interest grew.
+* Such things would be:
+  * Times/dates/venues for general Meetups to get to chat with the
+    different members of the gym community
+  * Times/dates/venues for different sport events, like running for
+    charities, charity football matches etc.
 
--Times/dates/venues for general Meetups to get to chat with the
-different members of the gym community
-
--Times/dates/venues for different sport events, like running for
-charities, charity football matches etc.
-
-I would also make the contact form fully functional with a post request
+* I would also make the contact form fully functional with a post request
 and have a database to collect all the neccessary information we need
 from the user.
 
-Testing Phase:
-
-Deployment
-
-I deployed the page on GitHub pages via the following procedure: -
-
-From the project\'s repository, go to the Settings tab.
-
-From the left-hand menu, select the Pages tab.
-
-Under the Source section, select the Main branch from the drop-down menu
+## **Testing Phase**
+* NEED TO DO
+***
+## **Deployment**
+I deployed the page on GitHub pages via the following procedure:
+1. From the project\'s repository, go to the Settings tab.
+2. From the left-hand menu, select the Pages tab.
+3. Under the Source section, select the Main branch from the drop-down menu
 and click Save.
-
-A message will be displayed to indicate a successful deployment to
+4. A message will be displayed to indicate a successful deployment to
 GitHub pages and provide the live link.
 
-You can find the live site via the following URL - RDFitness
-
-Credits
-
-Honorable mentions
-
+You can find the live site via the following URL - [RDFitness](https://ryan-a-davis365.github.io/RDFitness/)
+***
+## **Credits**
+### **Honorable mentions**
 This project could not have happened without the support of the
 following people listed in no particular order:
 
-Richard Wells - Code Institute Mentor who has gone above and beyond what
+* Richard Wells - Code Institute Mentor who has gone above and beyond what
 was expected of him to help me get this far in the course.
 
-My family - They have motivated me and pushed me to keep going and
+* My family - They have motivated me and pushed me to keep going and
 complete my project and course work.
 
-General reference:
-
-The project was influenced by the Code Institutes code along project
+### **General reference:**
+* The project was influenced by the Code Institutes code along project
 called Love running. Whilst I have tried to deviate as much as possible
 there may be some similarities in the code.
 
-Content:
-
-All content was written by myself but with the help from some of the
+### **Content:**
+* All content was written by myself but with the help from some of the
 Love Running code.
+* Icons in the footer were taken from Font Awesome.
+* All fonts imported from - [Google Fonts](https://fonts.google.com/)
 
-Icons in the footer were taken from Font Awesome.
-
-All fonts imported from - Google Fonts
-
-Media:
-
-I got most of my images from <https://www.pexels.com/search/gym/>
-
-There was some photos that i got from searching \"gym\" or \"gym
+### **Media:**
+* I got most of my images from <https://www.pexels.com/search/gym/>
+* There was some photos that i got from searching \"gym\" or \"gym
 photos\" in google.

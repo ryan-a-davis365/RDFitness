@@ -88,9 +88,9 @@ Below is a list of bugs I found during the development process by testing myself
 * ***Solution Used:***
     * I changed the ID to a Class Selector.
 * ***Issue Found:***
-    * I had a </div> that was unneeded.
+    * I had a /div that was unneeded.
 * ***Solution Used:***
-    * I removed the unneeded </div>
+    * I removed the unneeded /div
 * ***Issue Found:***
     * I had a favicon file with a space in and i forgot to fix it in the codes href.
 * ***Solution Used:***
@@ -108,4 +108,24 @@ Below is a list of bugs I found during the development process by testing myself
 #### ***Desktop Version:***
 I have only included one screenshot for desktop as all pages were the same score, only changing by one or two points in performance if I ran it multiple times. 
 
-![Desktop Lighthouse Score](assets/images/lighthouse-desktop.png) 
+![Desktop Lighthouse Score](assets/images/lighthouse-desktop.png)
+
+#### ***Mobile Version:***
+
+* Due to the more significant variance in the performance score, I have included a screenshot for each mobile page. That being said when I asked one of my testers to check the mobile light house scores from his device his performance scores were all the high nineties.
+
+1. ***index.html:***
+
+    ![Mobile Lighthouse Score for index.html](assets/images/lighthouse-mobile-homepage.png) 
+
+2. ***gallery.html:***
+
+    ![Mobile Lighthouse Score for gallery.html](assets/images/lighthouse-mobile-gallery.png)
+
+    * The performance score on this was orginally 49 but i changed all image files to .webp and i compressed all my file sizes of images to raise it to 66. If i tried to compress them more i began to lose quality on the images.
+
+3. ***signup.html:***
+
+    ![Mobile Lighthouse Score for signup.html](assets/images/lighthouse-mobile-signup.png)
+***
+[Return to README.md](README.md)

@@ -8,6 +8,10 @@
     box-sizing: border-box;
 }
 
+a:hover {
+    color: #1e2936;
+}
+
 /* This is just to remove the white lines*/
 main {
     background-color: #e0e1dd;

@@ -3,7 +3,7 @@
 ## **Site Overview**
 RDFitness is your go-to destination for achieving fitness goals, offering a comprehensive range of services and state-of-the-art facilities. The website features a welcoming Home page that instantly gives you the information you need about how the gym started with the "About Us" section and the equipment that we provide with the "Equipment" section. As you go down the page you see other various bits of information like the personal trainers that the gym provide and the different classes that we run. As you navigate to other pages we have a gallery page that is full of photos of the gym so you have a rough idea what you can expect and a sign-up page where you can enter your details and sign-up.
 
-![Am I responsive screenshot](assets/images/am-i-responsive.png)
+![Am I responsive screenshot](assets/images/am-i-responsive.webp)
 
 ## **Table of Contents:**
 1. [**Site Overview**](#site-overview)
@@ -97,7 +97,7 @@ at the top right of the page. The header itself contains the following
 features:
 
 #### *Title:*
-![Page title](assets/images/page-title.png)
+![Page title](assets/images/page-title.webp)
 
 * The title serves to state the name of the website/company.
 * It also serves as a navigation link to the top of the home page called
@@ -110,7 +110,7 @@ feedback page).
 navigation around the website.
 * The below image shows the navigation bar.
 
-![Navigation bar](assets/images/navigation-bar.png)
+![Navigation bar](assets/images/navigation-bar.webp)
 ***
 ### **Hero Images**
 * I have included a hero image on each page to make the site uniform
@@ -122,7 +122,7 @@ The hero image is a picture of the inside of the gym in black and white
 so the text over it stands out, you can see in the image a squat rack in
 the background with a bench under it and many dumbbells on the dumbbell
 rack.
-![Home page hero image](assets/images/about-us-gym.jpg)
+![Home page hero image](assets/images/about-us-gym.webp)
 ### **Gallery Page**:
 The gallery page does not have a hero image because the purpose of the
 page is for users to see all the different photos we have from inside of
@@ -131,7 +131,7 @@ the gym.
 This image is taken from someone over a dumbell showing more of the gyms
 equipment.
 
-![Sign-up page hero image](assets/images/signup-background-photo.jpg)
+![Sign-up page hero image](assets/images/signup-background-photo.webp)
 
 ## **Anchor Tags Within all Pages Main Content**
 * All anchor tags in the page\'s main content were made so when hovering over
@@ -147,7 +147,7 @@ awesome.
 * I also included details like opening times and the location of the gym
 in the Footer of my page.
 
-![Page footer](assets/images/footer.png)
+![Page footer](assets/images/footer.webp)
 
 ## **Typography**
 * Throughout the page, there is one primary font used:
@@ -167,15 +167,15 @@ trainers provide to all their clients.
 * Last but not least we have a table to show all of our weekly classes
 that we run.
 
-![Home page](assets/images/home-page.png)
-![Home page](assets/images/home-page2.png)
+![Home page](assets/images/home-page.webp)
+![Home page](assets/images/home-page2.webp)
 
 ### **Gallery Page Content:**
 * The gallery page has multiple different pictures from within the gym
 showing all the tools and equipment we provide, how big the gym is and
 the aesthetic of the gym.
 
-![Gallery page](assets/images/gallery-page.png)
+![Gallery page](assets/images/gallery-page.webp)
 
 ### **Sign-up Page Content:**
 * The sign-up page allows user to sign up to the gym and book a time to go
@@ -192,7 +192,7 @@ are.
 having the text for the submit button being something different will
 motivate users more to get started and go and smash it.
 
-![Sign-up page](assets/images/sign-up-page.png)
+![Sign-up page](assets/images/sign-up-page.webp)
 
 ## **Future-Enhancements**
 * The future intention of the site would be to serve as a website

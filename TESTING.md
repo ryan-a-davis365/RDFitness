@@ -87,6 +87,14 @@ Below is a list of bugs I found during the development process by testing myself
     * I used a "ID" for 2 different paragraphs.
 * ***Solution Used:***
     * I changed the ID to a Class Selector.
+* ***Issue Found:***
+    * I had a </div> that was unneeded.
+* ***Solution Used:***
+    * I removed the unneeded </div>
+* ***Issue Found:***
+    * I had a favicon file with a space in and i forgot to fix it in the codes href.
+* ***Solution Used:***
+    * I corrected the file name in the code.
 
     #### ***CSS*** - https://jigsaw.w3.org/css-validator/
 
@@ -95,7 +103,9 @@ Below is a list of bugs I found during the development process by testing myself
 
 ### **Lighthouse Scores**
 ### **Test conditions**
-* I did all lighthouse tests in incognito mode to avoid interference from browser extensions. 
-* I ran the tests for both mobile and desktop. 
-* I asked people to run lighthouse tests from their own devices. 
-    
+* I did all lighthouse tests on every page on the website.
+* I ran the tests for both mobile and desktop.
+#### ***Desktop Version:***
+I have only included one screenshot for desktop as all pages were the same score, only changing by one or two points in performance if I ran it multiple times. 
+
+![Desktop Lighthouse Score](docs/screenshots/lighthouse-desktop.jpg) 

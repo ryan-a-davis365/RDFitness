@@ -13,46 +13,31 @@ RDFitness is your go-to destination for achieving fitness goals, offering a comp
     * [***Site Aims***](#site-aims)
     * [***How Is This Will Be Achieved:***](#how-is-this-will-be-achieved)
     * [***Color Scheme***](#color-scheme)
+    * [***Wireframes***](#wireframes)
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
     * [***Header Element:***](#header-element)
         * [*Title*](#title)
         * [*Navigation Bar*](#navigation-bar)
-* [**Hero Images:**](#hero-images)
- * [***Home Page***:](#about-page)
-          * [*Hero-Image*](#hero-image)
+    * [***Hero Images:***](#hero-images)
+      * [**About Page**:](#about-page)
+          * [*Hero-Images*](#hero-image)
           * [*Gallery-Page*](#Gallery-Page)
           * [*Sign-up Page*](#Sign-up-Page)
-* [**Anchor Tags Within all Pages Main Content**](#anchor-tags-within-all-pages-main-content)
-* [**Footer**](#footer)
-* [**Typography**](#typography)
-
-Individual Page Content features
-
-About Page Content
-
-Teachings Page Content
-
-Community Page Content
-
-Contact Page Content
-
-Form Feedback Page Content
-
-Future-Enhancements
-
-Testing Phase
-
-Deployment
-
-Credits
-
-Honorable mentions
-
-General reference
-
-Content
-
-Media
+    * [**Anchor Tags Within all Pages Main Content**](#anchor-tags-within-all-pages-main-content)
+    * [**Footer**](#footer)
+    * [**Typography**](#typography)
+1. [**Individual Page Content features**](#individual-page-content-features)
+      * [***About Page Content***](#about-page-content)
+      * [***Gallery Page Content***](#gallery-page-content)
+      * [***Sign-up Page Content***](#sign-up-page-content)
+1. [**Future Enhancements**](#future-enhancements)
+1. [**Testing Phase**](#testing-phase)
+1. [**Deployment**](#deployment)
+1. [**Credits**](#credits)
+      * [***Honorable Mentions***](#honorable-mentions)
+      * [***General Reference***](#general-reference)
+      * [***Content***](#content)
+      * [***Media***](#media)
 
 Planning stage
 

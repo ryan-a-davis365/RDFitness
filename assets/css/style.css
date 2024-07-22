@@ -1,4 +1,4 @@
-/* Google fonts import*/
+/* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* Asterisk wildcard selector to override default browser style settings */
@@ -12,7 +12,7 @@ a:hover {
     color: #1e2936;
 }
 
-/* This is just to remove the white lines*/
+/* This is just to remove the white lines */
 main {
     background-color: #e0e1dd;
 }

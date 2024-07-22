@@ -175,7 +175,7 @@ that we run.
 showing all the tools and equipment we provide, how big the gym is and
 the aesthetic of the gym.
 
-![Gallery page](assets/images/gallery-page.webp)
+![Gallery page](assets/images/gallery-page.png)
 
 ### **Sign-up Page Content:**
 * The sign-up page allows user to sign up to the gym and book a time to go

@@ -108,4 +108,4 @@ Below is a list of bugs I found during the development process by testing myself
 #### ***Desktop Version:***
 I have only included one screenshot for desktop as all pages were the same score, only changing by one or two points in performance if I ran it multiple times. 
 
-![Desktop Lighthouse Score](docs/screenshots/lighthouse-desktop.jpg) 
+![Desktop Lighthouse Score](assets/images/lighthouse-desktop.png) 

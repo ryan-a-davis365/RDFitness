@@ -96,7 +96,9 @@ Below is a list of bugs I found during the development process by testing myself
 * ***Solution Used:***
     * I corrected the file name in the code.
 
-    #### ***CSS*** - https://jigsaw.w3.org/css-validator/
+I inputed all code into the Validator individually and all came back with no errors.
+
+![W3C markup validator](assets/images/W3C%20Validator.png)
 
 * All pages tested, no issues found via URL or file upload.\
 ![CSS validator badge](https://jigsaw.w3.org/css-validator/images/vcss)

@@ -72,14 +72,18 @@ equipment.
    * An option to sign up for a consultation meeting.
    * The site will provide information on days open and hours.
 
-Wireframes:
-
+### **Wireframes:**
 To organize my thoughts and prevent scope creep, I created wireframes
-for this project. Below are links to each of the mobile and desktop
-versions of the four intended pages.
+for this project. Below are images to each of the mobile and desktop
+versions of the three intended pages.
+
+Desktop Wireframes:
+
+![Desktop Wireframes](assets/images/desktop-wireframes.webp)
 
 Mobile Wireframes:
-NEED TO COMPLETE
+
+![Mobile Wireframes](assets/images/mobile-wireframes.webp)
 
 ### **Color Scheme:**
 When deciding the color scheme, I wanted to go with something that gave

@@ -128,10 +128,7 @@ The gallery page does not have a hero image because the purpose of the
 page is for users to see all the different photos we have from inside of
 the gym.
 ### **Sign-up Page**:
-This image is taken from someone over a dumbell showing more of the gyms
-equipment.
-
-![Sign-up page hero image](assets/images/signup-background-photo.webp)
+This hero image is the same as the home page.
 
 ## **Anchor Tags Within all Pages Main Content**
 * All anchor tags in the page\'s main content were made so when hovering over

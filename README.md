@@ -210,7 +210,7 @@ and have a database to collect all the neccessary information we need
 from the user.
 
 ## **Testing Phase**
-* NEED TO DO
+* I have included details of testing both during development and post development in a separate document called [TESTING.md](TESTING.md).
 ***
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure:

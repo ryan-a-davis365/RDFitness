@@ -243,6 +243,12 @@ section div {
     background-color: rgba(60, 60, 60, 0.6);
 }
 
+#thank-you {
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 3rem;
+}
+
 /* Personal Trainer section*/
 #personal-trainer {
     width: 100%;

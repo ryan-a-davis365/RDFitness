@@ -79,6 +79,11 @@ Below is a list of bugs I found during the development process by testing myself
         * Had a faint white line between divs.
     * ***Solution Used:***
         * Wrapped all the divs on the home page in the <main> element and added a "main" selector in CSS with "background-color: #e0e1dd;"
+1. **Intended Outcome** - All the headers to have the same elements.
+    * ***Issue Found:***
+        * I was using h1,h2,h3 which was working but looked messy.
+    * ***Solution Used:***
+        * Made a class called "header" and applied this class to my headers.
 
 ## **Post Development Testing**
 ### **Validators**
@@ -115,7 +120,7 @@ I have only included one screenshot for desktop as all pages were the same score
 
 #### ***Mobile Version:***
 
-* Due to the more significant variance in the performance score, I have included a screenshot for each mobile page. That being said when I asked one of my testers to check the mobile light house scores from his device his performance scores were all the high nineties.
+* Due to the more significant variance in the performance score, I have included a screenshot for each mobile page.
 
 1. ***index.html:***
 
@@ -124,8 +129,7 @@ I have only included one screenshot for desktop as all pages were the same score
 2. ***gallery.html:***
 
     ![Mobile Lighthouse Score for gallery.html](assets/images/lighthouse-mobile-gallery.png)
-
-    * The performance score on this was orginally 49 but i changed all image files to .webp and i compressed all my file sizes of images to raise it to 66. If i tried to compress them more i began to lose quality on the images.
+* The performance score on this was orginally 49 but i changed all image files to .webp and i compressed all my file sizes of images to raise it to 66. If i tried to compress them more i began to lose quality on the images.
 
 3. ***signup.html:***
 

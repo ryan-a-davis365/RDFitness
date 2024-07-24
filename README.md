@@ -68,7 +68,7 @@ a discussion.
 * The home page provides the user with a summary of our background and our
 equipment.
 
-* The site will provide multiple free resources such as:
+* The site will provide multiple free resources to the user such as:
    * A gallery of pictures taken directly from the gym.
    * An option to sign up for a consultation meeting.
    * The site will provide information on days open and hours.
@@ -99,7 +99,7 @@ remained visible and the site was accessible to all.
 ## **Current Features Common to all pages**
 ###  **Header Element**
 The header element sticks to the top of the page as the user scrolls up
-and down so you can always navigate to a different page with the option
+and down so they can always navigate to a different page with the option
 at the top right of the page. The header itself contains the following
 features:
 
@@ -114,7 +114,7 @@ features:
 * The navigation bar appears on all five pages (including the form
 feedback page).
 * It contains links to the home, gallery and sign up page to allow easy
-navigation around the website.
+navigation for the user around the website.
 * The below image shows the navigation bar.
 
 ![Navigation bar](assets/images/navigation-bar.webp)
@@ -141,13 +141,13 @@ This hero image is the same as the home page.
 * All anchor tags in the page\'s main content were made so when hovering over
 the hyperlink the text color would change to make it clear to the user that 
 I had embedded a hyperlink.
-* I changed the color to a darker blue to match the surrounding text, 
+* I changed the color to #1e2936 (dark blue) to match the surrounding text, 
 meaning the anchor tag did not look out of place or lower the contrast score.
 
 ## **Footer**
 * The footer includes direct links to all the RDFitness social media
-accounts with the use of icons. These icons were imported from font
-awesome.
+accounts with the use of icons so they are easy to access for the user. 
+These icons were imported from font awesome.
 * I also included details like opening times and the location of the gym
 in the Footer of my page.
 
@@ -163,11 +163,11 @@ in the Footer of my page.
 
 ## **Individual Page Content features**
 ### **Home Page Content:**
-* This page starts off by giving a brief description of how the gym
-started and the stuff we provide. Then its a brief description on the
-equipment we have accessible to anyone in the gym.
+* This page starts off by giving a brief description to the user of how 
+the gym started and the stuff we provide. Then its a brief description on
+the equipment we have accessible to anyone in the gym.
 * Then it leads into descriptive explanations on what our personal
-trainers provide to all their clients.
+trainers provide to all the users.
 * Last but not least we have a table to show all of our weekly classes
 that we run.
 
@@ -176,23 +176,22 @@ that we run.
 
 ### **Gallery Page Content:**
 * The gallery page has multiple different pictures from within the gym
-showing all the tools and equipment we provide, how big the gym is and
-the aesthetic of the gym.
+showing all the tools and equipment we provide to the users, how big the
+gym is and the aesthetic of the gym.
 
 ![Gallery page](assets/images/gallery-page.png)
 
 ### **Sign-up Page Content:**
-* The sign-up page allows user to sign up to the gym and book a time to go
-to the gym and talk to one of our staff members about everything we
-provide, what the user is interested in and what we can do to accomodate
-his goals.
+* The sign-up page allows users to sign up to the gym and book a time to visit
+and talk to one of our staff members about everything we provide, what the user
+is interested in and what we can do to accomodate his goals.
 * The user is asked to input their First and Last name so we can identify
 them when they come to the gym, their Email Address so we can contact
-them and ask when they are available to come to the gym. They are then
+them and also when they are available to come and visit. The user is then
 asked to pick one of 3 options, Cardio, Weight Lifting or Calisthenics.
-This is just so we can get a rough understanding of what their goals
+This is just so we can get a rough understanding of what the users goals
 are.
-* They then have a submit button with the text of \"Lets Go!\". I thought
+* The user then has a submit button with the text of \"Lets Go!\". I thought
 having the text for the submit button being something different will
 motivate users more to get started and go and smash it.
 
@@ -200,7 +199,7 @@ motivate users more to get started and go and smash it.
 
 ## **Future-Enhancements**
 * The future intention of the site would be to serve as a website
-specifically for RDFitness that has every single detail someone could
+specifically for RDFitness that has every single detail users could
 ever ask for when they are looking at our gym as one they would like to
 join.
 * At first, the purpose would remain to educate and inform users on what

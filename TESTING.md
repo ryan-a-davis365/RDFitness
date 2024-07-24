@@ -104,7 +104,7 @@ Below is a list of bugs I found during the development process by testing myself
 
 I inputed all code into the Validator individually and all came back with no errors.
 
-![W3C markup validator](assets/images/W3C%20Validator.png)
+![W3C markup validator](docs/images/w3c-validator.png)
 
 * All pages tested, no issues found via URL or file upload.\
 ![CSS validator badge](https://jigsaw.w3.org/css-validator/images/vcss)
@@ -116,7 +116,7 @@ I inputed all code into the Validator individually and all came back with no err
 #### ***Desktop Version:***
 I have only included one screenshot for desktop as all pages were the same score, only changing by one or two points in performance if I ran it multiple times. 
 
-![Desktop Lighthouse Score](assets/images/lighthouse-desktop.png)
+![Desktop Lighthouse Score](docs/images/lighthouse-desktop.png)
 
 #### ***Mobile Version:***
 
@@ -124,15 +124,15 @@ I have only included one screenshot for desktop as all pages were the same score
 
 1. ***index.html:***
 
-    ![Mobile Lighthouse Score for index.html](assets/images/lighthouse-mobile-homepage.png) 
+    ![Mobile Lighthouse Score for index.html](docs/images/lighthouse-mobile-homepage.png) 
 
 2. ***gallery.html:***
 
-    ![Mobile Lighthouse Score for gallery.html](assets/images/lighthouse-mobile-gallery.png)
+    ![Mobile Lighthouse Score for gallery.html](docs/images/lighthouse-mobile-gallery.png)
 * The performance score on this was orginally 49 but i changed all image files to .webp and i compressed all my file sizes of images to raise it to 66. If i tried to compress them more i began to lose quality on the images.
 
 3. ***signup.html:***
 
-    ![Mobile Lighthouse Score for signup.html](assets/images/lighthouse-mobile-signup.png)
+    ![Mobile Lighthouse Score for signup.html](docs/images/lighthouse-mobile-signup.png)
 ***
 [Return to README.md](README.md)

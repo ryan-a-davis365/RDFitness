@@ -27,7 +27,8 @@ During the development process, I was manually testing in the following ways:-
   3. Edge
 
 * I then used the devtools to simulate different screen sizes/devices from 320 px up to 4000px in width. 
-* In addition to this, I also tested them on the devices i own like an iPhone and an iPad.
+* I also tested them on the devices i own like an iPhone and an iPad.
+* I provided some friends and family with the link to my webpage for testing to see if they came across any issues.
 
 ### ***Bugs and Fixes:***
 

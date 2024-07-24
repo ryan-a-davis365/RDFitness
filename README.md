@@ -80,11 +80,11 @@ versions of the three intended pages.
 
 Desktop Wireframes:
 
-![Desktop Wireframes](assets/images/desktop-wireframes.webp)
+![Desktop Wireframes](docs/images/desktop-wireframes.webp)
 
 Mobile Wireframes:
 
-![Mobile Wireframes](assets/images/mobile-wireframes.webp)
+![Mobile Wireframes](docs/images/mobile-wireframes.webp)
 
 ### **Color Scheme:**
 When deciding the color scheme, I wanted to go with something that gave
@@ -94,7 +94,7 @@ grey\'s and used the following website to decide on the colours
 <https://coolors.co/>. Using this grid allowed me to ensure all text
 remained visible and the site was accessible to all.
 
-![Color pallete](assets/images/color-pallete.png)
+![Color pallete](docs/images/color-pallete.png)
 
 ## **Current Features Common to all pages**
 ###  **Header Element**
@@ -104,7 +104,7 @@ at the top right of the page. The header itself contains the following
 features:
 
 #### *Title:*
-![Page title](assets/images/page-title.webp)
+![Page title](docs/images/page-title.webp)
 
 * The title serves to state the name of the website/company.
 * It also serves as a navigation link to the top of the home page called
@@ -117,7 +117,7 @@ feedback page).
 navigation for the user around the website.
 * The below image shows the navigation bar.
 
-![Navigation bar](assets/images/navigation-bar.webp)
+![Navigation bar](docs/images/navigation-bar.webp)
 ***
 ### **Hero Images**
 * I have included a hero image on each page to make the site uniform
@@ -129,7 +129,7 @@ The hero image is a picture of the inside of the gym in black and white
 so the text over it stands out, you can see in the image a squat rack in
 the background with a bench under it and many dumbbells on the dumbbell
 rack.
-![Home page hero image](assets/images/about-us-gym.webp)
+![Home page hero image](docs/images/about-us-gym-readme.webp)
 ### **Gallery Page**:
 The gallery page does not have a hero image because the purpose of the
 page is for users to see all the different photos we have from inside of
@@ -151,7 +151,7 @@ These icons were imported from font awesome.
 * I also included details like opening times and the location of the gym
 in the Footer of my page.
 
-![Page footer](assets/images/footer.webp)
+![Page footer](docs/images/footer.webp)
 
 ## **Typography**
 * Throughout the page, there is one primary font used:
@@ -171,15 +171,15 @@ trainers provide to all the users.
 * Last but not least we have a table to show all of our weekly classes
 that we run.
 
-![Home page](assets/images/home-page.webp)
-![Home page](assets/images/home-page2.webp)
+![Home page](docs/images/home-page.webp)
+![Home page](docs/images/home-page2.webp)
 
 ### **Gallery Page Content:**
 * The gallery page has multiple different pictures from within the gym
 showing all the tools and equipment we provide to the users, how big the
 gym is and the aesthetic of the gym.
 
-![Gallery page](assets/images/gallery-page.png)
+![Gallery page](docs/images/gallery-page.png)
 
 ### **Sign-up Page Content:**
 * The sign-up page allows users to sign up to the gym and book a time to visit
@@ -195,7 +195,7 @@ are.
 having the text for the submit button being something different will
 motivate users more to get started and go and smash it.
 
-![Sign-up page](assets/images/sign-up-page.webp)
+![Sign-up page](docs/images/sign-up-page.webp)
 
 ## **Future-Enhancements**
 * The future intention of the site would be to serve as a website

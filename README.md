@@ -45,19 +45,20 @@ RDFitness is your go-to destination for achieving fitness goals, offering a comp
 * Users who have heard of RDFitness but would like to get some more
 information on it.
 * Users who have never heard of RDFitness.
+* Users who are looking for a gym in the area.
 
 ### **User Stories:**
 * As a user, I want to see the subject matter of the page.
 * As a user, I want to navigate the page to find what I require quickly
 and easily.
-* As a user, I want to leave feeling as I know more about the gym when
-leaving each page than when I arrived at the site.
+* As a user, I want to leave feeling like i know more about the gym 
+  than when I arrived at the site.
 * As a user, I was to be able to navigate my way to free resources easily.
 * As a user, I want to be able to reach out and ask for more information.
 
 ### **Site Aims:**
 * To provide users knowledge about RDFitness and what we provide.
-* To educate the user on the services we provided.
+* To educate the user on the services we provide.
 * Provide the user with the information required to check where we are
 located.
 * To offer the user a way to contact the staff for further information and
@@ -92,6 +93,8 @@ the grey colors. For this reason, I selected a range of blue\'s and
 grey\'s and used the following website to decide on the colours
 <https://coolors.co/>. Using this grid allowed me to ensure all text
 remained visible and the site was accessible to all.
+
+![Color pallete](assets/images/color-pallete.png)
 
 ## **Current Features Common to all pages**
 ###  **Header Element**

@@ -49,9 +49,7 @@ header a {
     color: inherit;
 }
 
-h1,
-h2,
-h3 {
+.header {
     font-family: 'Montserrat', sans-serif;
     background-color: #e0e1dd;
     text-transform: uppercase;
@@ -226,6 +224,7 @@ section div {
 #transparent-header {
     background-color: transparent;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #what-next {

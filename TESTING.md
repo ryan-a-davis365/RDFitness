@@ -15,7 +15,7 @@
 ## **During Development Testing**
 During the development process, I was manually testing in the following ways:-
 
-1. Manually testing each element for appearance and responsiveness via a simulated live server using an extension in VSCode.
+1. Manually testing each element for appearance and responsiveness by running the webpage via a port on gitpod.
     
 1. Published the page via GitHub pages and made sure everything was working well on the officially published page.
 

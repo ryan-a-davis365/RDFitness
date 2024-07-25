@@ -20,7 +20,7 @@ During the development process, I was manually testing in the following ways:-
 1. Published the page via GitHub pages and made sure everything was working well on the officially published page.
 
 ### ***Manual Testing:***
-* During testing, I used four different browsers to ensure cross-compatibility. The desktop browsers used by myself were:
+* During testing, I used three different browsers to ensure cross-compatibility. The desktop browsers used by myself were:
 
   1. Chrome
   2. Firefox
